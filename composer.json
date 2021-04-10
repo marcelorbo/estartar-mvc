@@ -9,7 +9,7 @@
     "minimum-stability": "stable",    
     "license": "MIT",        
     "require": {
-        "estartar/core": "dev-main"
+        "estartar/core": "stable"
     },
     "autoload": {
         "psr-4": { "Models\\": "models" }
