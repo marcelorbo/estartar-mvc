@@ -1,0 +1,8 @@
+{
+    "require": {
+        "estartar/core": "dev-main"
+    },
+    "autoload": {
+        "psr-4": { "Models\\": "models" }
+    }        
+}
