@@ -1,4 +1,4 @@
-## Estartar Starter MVC Project
+## Estartar MVC Project
 
 Projeto básico em PHP com arquitetura MVC, 
 construído como estudo do padrão de arquitetura e do ciclo de vida da aplicação.
