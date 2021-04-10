@@ -6,7 +6,7 @@
     "authors": [
       {"name": "Marcelo Oliveira", "email": "marcelo@estartar.com"}
     ],    
-    "minimum-stability": "dev-main",    
+    "minimum-stability": "dev",    
     "license": "MIT",        
     "require": {
         "estartar/core": "dev-main"
