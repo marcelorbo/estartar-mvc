@@ -6,10 +6,10 @@
     "authors": [
       {"name": "Marcelo Oliveira", "email": "marcelo@estartar.com"}
     ],    
-    "minimum-stability": "stable",    
+    "minimum-stability": "dev-main",    
     "license": "MIT",        
     "require": {
-        "estartar/core": "stable"
+        "estartar/core": "dev-main"
     },
     "autoload": {
         "psr-4": { "Models\\": "models" }
