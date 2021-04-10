@@ -10,7 +10,7 @@ Um ótimo ponto de partida para a produção rápida de MPVs e entendimento de c
 Via composer
 
 ```bash
-composer create_project require marcelorbo/estartar-mvc:dev-main nomeprojeto
+composer create-project estartar/mvc:dev-main nome_projeto
 ```
 
 ## License

@@ -1,4 +1,11 @@
 {
+    "name": "estartar/mvc",
+    "description": "Estrutura básica de uma aplicação MVC em PHP",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+      {"name": "Marcelo Oliveira", "email": "marcelo@estartar.com"}
+    ],    
     "require": {
         "estartar/core": "dev-main"
     },
